@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-22T07:07:27.797Z</updated>
+  <updated>2019-03-22T08:07:52.972Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,21 +21,20 @@
     <link href="http://yoursite.com/2019/03/22/%E5%9B%BE%E9%9B%86/"/>
     <id>http://yoursite.com/2019/03/22/图集/</id>
     <published>2019-03-22T06:54:25.000Z</published>
-    <updated>2019-03-22T07:07:27.797Z</updated>
+    <updated>2019-03-22T08:07:52.972Z</updated>
     
     <content type="html"><![CDATA[<p>qq空间的图  超赞···有木有</p><h2 id><a href="#" class="headerlink" title></a><img src="/2019/03/22/图集/bg2.jpg" alt="你想输入的替代文字"></h2><p>这个也是的</p><p><img src="/2019/03/22/图集/1.jpeg" alt="你想输入的替代文字"></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;qq空间的图  超赞···有木有&lt;/p&gt;
-&lt;h2 id&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title&gt;&lt;/a&gt;&lt;img src=&quot;/2019/03/22/图集/bg2.jpg&quot; alt=&quot;你想输入的替代文字&quot;&gt;&lt;/h2&gt;&lt;p&gt;这个也是的&lt;/p&gt;
-
-      
+      很棒的图片，看看
     
     </summary>
     
+      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+    
+    
+      <category term="picture" scheme="http://yoursite.com/tags/picture/"/>
     
   </entry>
   
@@ -44,18 +43,17 @@
     <link href="http://yoursite.com/2019/03/22/%E8%8B%B1%E8%AF%AD%E6%AF%94%E8%B5%9B/"/>
     <id>http://yoursite.com/2019/03/22/英语比赛/</id>
     <published>2019-03-22T06:14:43.000Z</published>
-    <updated>2019-03-22T06:45:15.404Z</updated>
+    <updated>2019-03-22T08:08:05.457Z</updated>
     
     <content type="html"><![CDATA[<p>Weeks ago, in order to participate in a history competition,we made a PPT called＂JiaWu year ,numerous students will serve country in future＂ Therefore ,it has inadvertently remindedme of this speech .And I fell into the history of the past.</p><p>120 years ago, China was invaded by increasingly powerful Japan .They encroached on our territory, and murdered so many people .Nevertheless, their aggression against China was much more than these.</p><p>77 years ago, The outbreak of the Anti-Japanese war brought us huge harm .But I know that the damages of war would bring Japan to a tragic end finally .NO matter who fired the first shell .I just want to ask one question＂where did this war happen ?＂Obviously ,it took place in  China .This means ,China got the deeper hurt in pain during the war .The Nanjing Massacre is the strongest evidence for what Japan have done to China in the past .Therefore ,we never forget all these history.</p><p>Today, in order to commemorate the Anti-Japanese war and Nanjing Massacre victims, we have made the memorial days. A memorable history of humiliation let us know that we could not<br>forget the history of making our land loss.<br>However ,do we know the true meaning of ＂We will never forget＂? Could we make an incursion to Japan without any reason? Should we not establish diplomatic relations with them  ? Or boycott of Japanese goods ? I think ,none of them should we adopt .Churchill once said ＂Success is not final ,failure is not fatal ; it is the courage to continue that counts ＂So ,what we need to do now is to have a clear awareness that remember don’t treat them like how they treat us in the past. What we need to do now is to make our country more and more prosperous and tell them we are no longer a country allow ourselves to be trampled upon.</p><p>Now that I am a university student .I have a dream deeply in our future. One day , Japan will admit all the historical facts .one day ,our country will become stronger and stronger and no one can encroach our wild land .One day ,a word ＂sorry＂ will be said from them and we will tell them confirmedly ＂we never forget＂</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Weeks ago, in order to participate in a history competition,we made a PPT called＂JiaWu year ,numerous students will serve country in futu
-      
+      The essay for the English speech contest ,the theme is Anti-Japanese War
     
     </summary>
+    
+      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
     
     
   </entry>
@@ -65,11 +63,21 @@
     <link href="http://yoursite.com/2019/03/21/%E4%BD%A0%E5%A5%BD%EF%BC%8CJava%E5%9F%BA%E7%A1%80/"/>
     <id>http://yoursite.com/2019/03/21/你好，Java基础/</id>
     <published>2019-03-21T06:13:42.000Z</published>
-    <updated>2019-03-21T06:24:37.095Z</updated>
+    <updated>2019-03-22T08:06:26.791Z</updated>
+    
+    <content type="html"><![CDATA[<p>java的学习是循序渐进的。</p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;java的学习是循序渐进的。&lt;/p&gt;
+
+      
+    
     </summary>
+    
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
     
     
   </entry>
